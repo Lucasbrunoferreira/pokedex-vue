@@ -1,18 +1,31 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Pokedex />
+
+    <Footer />
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue';
+import Footer from '@/components/Footer.vue';
+import Pokedex from '@/components/Pokedex.vue';
+import { defineComponent } from '@vue/composition-api';
 
-export default {
+export default defineComponent({
   name: 'Home',
   components: {
-    HelloWorld,
+    Footer,
+    Pokedex,
   },
-};
+});
 </script>
+
+<style lang="scss">
+.home {
+  height: 100vh;
+  background-color: #EEE;
+  display: flex;
+  align-items: center;
+  justify-content: center ;
+}
+</style>
