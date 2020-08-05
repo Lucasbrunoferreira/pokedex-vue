@@ -3,8 +3,9 @@
 </p>
 
 # Pokedex
-
 [![](https://img.shields.io/badge/author-Lucas%20Bruno-blue)](https://github.com/Lucasbrunoferreira)
+
+A basic pokedex implemetation with a VueJS, TypeScript and Composition API.
 
 
 ## Make With
@@ -19,7 +20,7 @@
 
 ## Screenshots
 
-<img src="./.github/readme/screenshot_1.png?raw=true" width="110"/>
-<img src="./.github/readme/screenshot_2.png?raw=true" width="110"/>
-<img src="./.github/readme/screenshot_3.png?raw=true" width="110"/>
+<img src="./.github/readme/screenshot_1.png?raw=true" width="800"/>
+<img src="./.github/readme/screenshot_2.png?raw=true" width="800"/>
+<img src="./.github/readme/screenshot_3.png?raw=true" width="800"/>
 
