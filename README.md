@@ -3,10 +3,15 @@
 </p>
 
 # Pokedex
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b0610916-10b0-43f6-a4ad-fd3563508117/deploy-status)](https://app.netlify.com/sites/pokedex-vue-lucasbrunoferreira/deploys)
 [![](https://img.shields.io/badge/author-Lucas%20Bruno-blue)](https://github.com/Lucasbrunoferreira)
+
 
 A basic pokedex implemetation with a VueJS, TypeScript and Composition API.
 
+
+## DEMO
+[Live Demo - Netlify](https://pokedex-vue-lucasbrunoferreira.netlify.app)
 
 ## Make With
 
